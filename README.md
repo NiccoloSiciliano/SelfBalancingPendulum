@@ -7,6 +7,7 @@
   - cmd.txt is the file thanks to which the user can give command to the program;
   - log.txt is the log file of the trainig sessions that were executed;
   - main.py is the file to execute to start the program;
+  Visual results can be seen at youtube link: https://www.youtube.com/watch?v=4U_HstrUaH0
 ## Instructions for use
   To execute a training session set is_train to True in the main.py file, False for simulate a table.
   In any case is necessary specify the file name which will be used to save the final table, in case of training execution, and to simulate an existing table, in case of simulation.
