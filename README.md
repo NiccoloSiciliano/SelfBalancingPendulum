@@ -14,7 +14,7 @@ This project implements a self-balancing inverted pendulum system that goes beyo
 Watch our AI in action: [Self-Balancing AI Demonstration](https://www.youtube.com/watch?v=4U_HstrUaH0)
 
 ### Research Paper
-For comprehensive technical details, methodology, and experimental analysis, see the full research paper: Ai_Lab_self_balancing_AI.pdf
+For comprehensive technical details, methodology, and experimental analysis, see the full research paper: [Ai_Lab_self_balancing_AI.pdf](./Ai_Lab_self_balancing_AI.pdf)
 
 ### Key Features
 - **Enhanced Problem Scope**: Handles pendulum recovery from any angle (0-360°)
